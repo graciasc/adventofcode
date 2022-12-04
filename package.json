@@ -1,0 +1,21 @@
+{
+  "name": "christmas-advent-of-code",
+  "version": "1.0.0",
+  "description": "https://adventofcode.com",
+  "main": "index.ts",
+  "repository": "git@github.com:graciasc/adventofcode.git",
+  "author": "gracias <gracias.claude@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "eslint": "^8.0.1",
+    "eslint-config-standard-with-typescript": "^23.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "tsc": "^2.0.4",
+    "typescript": "^4.9.3"
+  }
+}
